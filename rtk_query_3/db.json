@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "mobile",
+      "brand": "sasung",
+      "price": 22000,
+      "discount": 23
+    },
+    {
+      "id": 4,
+      "name": "car",
+      "brand": "Hunadai",
+      "price": 4580000,
+      "discount": 34
+    },
+    {
+      "id": 5,
+      "name": "bike",
+      "brand": "ktm",
+      "price": 150000,
+      "discount": 11
+    },
+    {
+      "name": "chopper",
+      "brand": "israel army",
+      "price": 35999,
+      "discount": 23,
+      "id": 8
+    },
+    {
+      "name": "glass ",
+      "brand": "glassgo",
+      "price": 399,
+      "discount": 35,
+      "id": 10
+    }
+  ]
+}

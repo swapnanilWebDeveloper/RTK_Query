@@ -1,0 +1,60 @@
+{
+  "science": [
+    {
+      "id": 2,
+      "physics": 95,
+      "chemistry": 85,
+      "mathematics": 75
+    },
+    {
+      "id": 3,
+      "physics": 69,
+      "chemistry": 79,
+      "mathematics": 59
+    },
+    {
+      "id": 6,
+      "physics": 64,
+      "chemistry": 54,
+      "mathematics": 74
+    },
+    {
+      "physics": 77,
+      "chemistry": 67,
+      "mathematics": 57,
+      "id": 7
+    }
+  ],
+  "bioData": [
+    {
+      "id": 1,
+      "name": "Mayuk Mukherjee",
+      "email": "Mayuk@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Suryendu Sarakar",
+      "email": "Suryendu@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Aninda Mukherjee",
+      "email": "Aninda@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Sanlap Gadai",
+      "email": "Sanlap@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Anik Ghosh",
+      "email": "Anik@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Souvik Chatterjee",
+      "email": "Souvik@gmail.com"
+    }
+  ]
+}
